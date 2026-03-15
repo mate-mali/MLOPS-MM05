@@ -18,3 +18,4 @@ services:
       - --port
       - "5000"
     restart: unless-stopped
+    #on ubuntu podman-docker to run docker compose instead of docker-compose which seems to be legacy command
