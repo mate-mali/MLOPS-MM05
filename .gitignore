@@ -1,2 +1,5 @@
-.idea/
-.venv/
+/ames_data_2006_2008.parquet
+/remote_data
+/*.parquet
+*.parquet
+/remote_data/*
